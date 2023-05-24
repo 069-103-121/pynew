@@ -6,6 +6,7 @@ import scipy.sparse._csr
 
 from nltk.corpus import stopwords
 import nltk
+nltk.download('punkt')
 from nltk.stem.porter import PorterStemmer
 
 ps = PorterStemmer()
