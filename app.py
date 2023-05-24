@@ -57,3 +57,4 @@ if st.button('Predict'):
         st.header("Spam")
     else:
         st.header("Not Spam")
+st.markdown("[Provide Feedback](https://forms.gle/iHq23nuBiQge3DL4A)")
