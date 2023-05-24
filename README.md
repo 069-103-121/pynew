@@ -1,1 +1,1 @@
-# sma-spam
+# sms-spam
